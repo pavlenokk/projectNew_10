@@ -1,0 +1,29 @@
+.main{
+    background: cornflowerblue;
+    border-radius: 20px;
+    text-align: center;
+}
+.buttonDetails:hover{
+    background: greenyellow;
+}
+.buttonPosts:hover{
+    background: firebrick;
+}
+.buttons{
+    display: flex;
+    flex-direction: column;
+}
+.divBlocks{
+    flex-wrap: wrap;
+    background: wheat;
+    display: flex;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-left: 230px;
+    width: 1110px ;
+}
+.divClass{
+    border: 1px solid black;
+    width: 220px;
+    height: 80px;
+}

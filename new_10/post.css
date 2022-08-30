@@ -1,0 +1,11 @@
+.divClass{
+    background: tomato;
+}
+.comments{
+    border: 2px blue solid;
+}
+.divComments{
+    background: yellow;
+    display: flex;
+    margin-top: 10px;
+}
